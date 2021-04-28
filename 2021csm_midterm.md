@@ -13,7 +13,7 @@
 
 <br>
 
-<https://youtu.be/N2EVSXOiACc>
+<<https://youtu.be/N2EVSXOiACc>>
 
 1) 서버 구축 후 하드디스크 제거, 서버 재설치 (구축 후 바로 파티션을 하려고 하니까 이미 모든 파티션이 채워져있었고 작동중이어서 수정도 하지 못하는 상황이었다.)
 2) Gparted를 이용하여 파티션 추가
@@ -33,7 +33,7 @@
 
 <br>
 
-<https://youtu.be/WAF8DqK829s>
+<<https://youtu.be/WAF8DqK829s>>
 1) 하드디스크 5개 추가 후 파티션
 2) mdadm을 이용한 레이드 구성
 * 특별히 어려운 거 없이 수행하였다.
@@ -44,7 +44,7 @@
 
 <br>
 
-<https://youtu.be/1qr1Rx02_Bw>
+<<https://youtu.be/1qr1Rx02_Bw>>
 1) myBackup.sh 를 작성하여 백업 명령어 작성 (압축명령어 tar를 이용)
 2) crontab 파일에 시간과 실행을 작성
 3) 시간 조정하여 결과를 확인했다.
@@ -62,7 +62,7 @@
 
 <br>
 
-<https://youtu.be/qDiVmNZ8aw8>
+<<https://youtu.be/qDiVmNZ8aw8>>
 1) 소프트웨어 센터에서 visual studio code 다운로드
 2) python 확장팩 다운로드
 3) 작성
